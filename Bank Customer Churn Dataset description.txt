@@ -1,7 +1,10 @@
 Bank Customer Churn - Dataset description 
 
 
-The bank customer churn dataset is a commonly used dataset for predicting customer churn in the banking industry. It contains information on bank customers who either left the bank or continue to be a customer. The dataset includes the following attributes:
+The bank customer churn dataset is a commonly used dataset for predicting customer churn in the banking industry. It contains information on bank customers who either left the bank or continue to be a customer. 
+
+The dataset includes the following attributes:
+
 1. Customer ID: A unique identifier for each customer
 2. Surname: The customer's surname or last name
 3. Credit Score: A numerical value representing the customer's credit score
